@@ -30,6 +30,7 @@ This is a paragraph
 4. item 3a
 
 ## Table
+
 | Command      |  Description     |
 | -------------: | :----------------|
 | git add| Stage changes for commit|
